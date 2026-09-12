@@ -55,7 +55,7 @@ The project includes several visualizations:
 
 🖼️ Dashboard Preview
 
-"Horizon TechX Sales Dashboard" (Horizon_TechX_Sales_Dashboard.jpg)
+"Horizon TechX Sales Dashboard" (Horizon_TechX_Task4_Dashboard.jpg)
 
 💡 Key Insights
 
